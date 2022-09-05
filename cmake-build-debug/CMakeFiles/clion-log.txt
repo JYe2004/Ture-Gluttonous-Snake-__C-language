@@ -1,0 +1,4 @@
+"D:\software\jetbrains\CLion 2022.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/software/jetbrains/CLion 2022.2/bin/ninja/win/ninja.exe" -G Ninja -S "D:\Gluttonous Snake_first\END_Snake" -B "D:\Gluttonous Snake_first\END_Snake\cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Gluttonous Snake_first/END_Snake/cmake-build-debug
